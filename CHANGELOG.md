@@ -1,3 +1,16 @@
+# [0.43.0](https://github.com/EncyclopediaGalactica/Common/compare/0.42.0...0.43.0) (2024-04-27)
+
+
+### Bug Fixes
+
+* semantic release fix [#3](https://github.com/EncyclopediaGalactica/Common/issues/3) ([d3b412b](https://github.com/EncyclopediaGalactica/Common/commit/d3b412bc5426ccb5df29cef406a678776d759bbb))
+
+
+### Features
+
+* publish fix [#2](https://github.com/EncyclopediaGalactica/Common/issues/2) ([1dc4cd4](https://github.com/EncyclopediaGalactica/Common/commit/1dc4cd44225b46b5fa09fdc4e4d53078a89a0d72))
+* Relation result [#1](https://github.com/EncyclopediaGalactica/Common/issues/1) ([9b9709c](https://github.com/EncyclopediaGalactica/Common/commit/9b9709c2745c359af33551a023ad18c8d5213cae))
+
 # [0.42.0](https://github.com/EncyclopediaGalactica/EncyclopediaGalactica/compare/0.41.0...0.42.0) (2024-04-27)
 
 
