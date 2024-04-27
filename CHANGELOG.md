@@ -1,3 +1,10 @@
+## [0.43.1](https://github.com/EncyclopediaGalactica/Common/compare/0.43.0...0.43.1) (2024-04-27)
+
+
+### Bug Fixes
+
+* nuget publish fix [#4](https://github.com/EncyclopediaGalactica/Common/issues/4) ([3648bb1](https://github.com/EncyclopediaGalactica/Common/commit/3648bb1a6d9ef5d00ad299b49f3c1cd1295b16c7))
+
 # [0.43.0](https://github.com/EncyclopediaGalactica/Common/compare/0.42.0...0.43.0) (2024-04-27)
 
 
