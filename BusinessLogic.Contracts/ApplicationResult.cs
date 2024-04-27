@@ -1,5 +1,8 @@
 namespace EncyclopediaGalactica.BusinessLogic.Contracts;
 
+/// <summary>
+///
+/// </summary>
 public class ApplicationResult
 {
     public long Id { get; set; }
