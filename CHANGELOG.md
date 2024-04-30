@@ -1,3 +1,10 @@
+# [0.44.0](https://github.com/EncyclopediaGalactica/Common/compare/0.43.1...0.44.0) (2024-04-30)
+
+
+### Features
+
+* adding RelationTypeId to RelationResult [#5](https://github.com/EncyclopediaGalactica/Common/issues/5) ([8ca9d93](https://github.com/EncyclopediaGalactica/Common/commit/8ca9d93abdfd583c18204e7b49a034a8aa4453f2))
+
 ## [0.43.1](https://github.com/EncyclopediaGalactica/Common/compare/0.43.0...0.43.1) (2024-04-27)
 
 
