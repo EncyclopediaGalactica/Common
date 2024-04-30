@@ -11,4 +11,5 @@ public class RelationResult
     public DocumentResult RightDocument { get; set; }
     public long RightDocumentId { get; set; }
     public RelationTypeResult RelationType { get; set; }
+    public long RelationTypeId { get; set; }
 }
