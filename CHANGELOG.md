@@ -1,3 +1,10 @@
+## [0.44.1](https://github.com/EncyclopediaGalactica/Common/compare/0.44.0...0.44.1) (2024-04-30)
+
+
+### Bug Fixes
+
+* **RelationResult:** add default values for reference type properties [#6](https://github.com/EncyclopediaGalactica/Common/issues/6) ([d0a5cf2](https://github.com/EncyclopediaGalactica/Common/commit/d0a5cf2f5025a11dda007b6cd3893e3d10583070))
+
 # [0.44.0](https://github.com/EncyclopediaGalactica/Common/compare/0.43.1...0.44.0) (2024-04-30)
 
 
