@@ -4,4 +4,5 @@ public class StructureNodeResult
 {
     public long Id { get; set; }
     public long DocumentId { get; set; }
+    public long ParentId { get; set; }
 }
