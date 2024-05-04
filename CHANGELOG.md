@@ -1,3 +1,10 @@
+# [0.45.0](https://github.com/EncyclopediaGalactica/Common/compare/0.44.1...0.45.0) (2024-05-04)
+
+
+### Features
+
+* add ParentId to StructureNode [#7](https://github.com/EncyclopediaGalactica/Common/issues/7) ([635395e](https://github.com/EncyclopediaGalactica/Common/commit/635395e9b99aaa771fa4febd4792c5f5226bc1ad))
+
 ## [0.44.1](https://github.com/EncyclopediaGalactica/Common/compare/0.44.0...0.44.1) (2024-04-30)
 
 
