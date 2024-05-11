@@ -1,3 +1,10 @@
+# [2.2.0](https://github.com/EncyclopediaGalactica/Common/compare/2.1.0...2.2.0) (2024-05-11)
+
+
+### Features
+
+* document structure representation changes [#11](https://github.com/EncyclopediaGalactica/Common/issues/11) ([e13aa0d](https://github.com/EncyclopediaGalactica/Common/commit/e13aa0d15c523415866b6b18215dd26af28215d0))
+
 # [2.1.0](https://github.com/EncyclopediaGalactica/Common/compare/2.0.0...2.1.0) (2024-05-11)
 
 
