@@ -7,5 +7,5 @@ public class DocumentResult
     public string? Description { get; set; }
     public Uri? Uri { get; set; }
 
-    public ICollection<StructureNodeResult> StructureNodes { get; set; } = new List<StructureNodeResult>();
+    public ICollection<DocumentStructureNodeResult> StructureNodes { get; set; } = new List<DocumentStructureNodeResult>();
 }

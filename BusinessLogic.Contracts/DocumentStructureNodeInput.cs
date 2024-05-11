@@ -1,6 +1,6 @@
 namespace EncyclopediaGalactica.BusinessLogic.Contracts;
 
-public class StructureNodeInput
+public class DocumentStructureNodeInput
 {
     public long Id { get; set; }
     public long DocumentId { get; set; }
