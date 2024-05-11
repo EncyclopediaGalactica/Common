@@ -7,5 +7,5 @@ public class DocumentResult
     public string? Description { get; set; }
     public Uri? Uri { get; set; }
 
-    public DocumentStructureNodeResult StructureNode { get; set; }
+    public DocumentStructureResult DocumentStructure { get; set; }
 }
