@@ -1,3 +1,15 @@
+# [1.0.0](https://github.com/EncyclopediaGalactica/Common/compare/0.45.0...1.0.0) (2024-05-11)
+
+
+### Features
+
+* StructureNodeResult changes [#8](https://github.com/EncyclopediaGalactica/Common/issues/8) ([52d2d38](https://github.com/EncyclopediaGalactica/Common/commit/52d2d3844fba3e1fef6ef130ddf7fe116f8f2271))
+
+
+### BREAKING CHANGES
+
+* DocumentStructureNode has been removed
+
 # [0.45.0](https://github.com/EncyclopediaGalactica/Common/compare/0.44.1...0.45.0) (2024-05-04)
 
 
