@@ -1,3 +1,10 @@
+# [2.3.0](https://github.com/EncyclopediaGalactica/Common/compare/2.2.0...2.3.0) (2024-05-11)
+
+
+### Features
+
+* DocumentStructureNodeResult gets hasChildren flag [#12](https://github.com/EncyclopediaGalactica/Common/issues/12) ([617c3ca](https://github.com/EncyclopediaGalactica/Common/commit/617c3ca799ba62f2e37ca7d05b0d21ec5550aad3))
+
 # [2.2.0](https://github.com/EncyclopediaGalactica/Common/compare/2.1.0...2.2.0) (2024-05-11)
 
 
