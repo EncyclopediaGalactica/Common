@@ -1,3 +1,10 @@
+# [2.4.0](https://github.com/EncyclopediaGalactica/Common/compare/2.3.0...2.4.0) (2024-05-11)
+
+
+### Features
+
+* ApplicationInput [#13](https://github.com/EncyclopediaGalactica/Common/issues/13) ([453552e](https://github.com/EncyclopediaGalactica/Common/commit/453552e5b43b515148c3b2643e26b499680bafff))
+
 # [2.3.0](https://github.com/EncyclopediaGalactica/Common/compare/2.2.0...2.3.0) (2024-05-11)
 
 
