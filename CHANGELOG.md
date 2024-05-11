@@ -1,3 +1,10 @@
+# [2.1.0](https://github.com/EncyclopediaGalactica/Common/compare/2.0.0...2.1.0) (2024-05-11)
+
+
+### Features
+
+* changes in how the structure node tree is represented [#10](https://github.com/EncyclopediaGalactica/Common/issues/10) ([10fca22](https://github.com/EncyclopediaGalactica/Common/commit/10fca22f8bfc93179281915082e71d74dc11b8f6))
+
 # [2.0.0](https://github.com/EncyclopediaGalactica/Common/compare/1.0.0...2.0.0) (2024-05-11)
 
 
