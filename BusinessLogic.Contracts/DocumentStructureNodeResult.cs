@@ -3,7 +3,9 @@ namespace EncyclopediaGalactica.BusinessLogic.Contracts;
 public class DocumentStructureNodeResult
 {
     public long Id { get; set; }
+    public string Name { get; set; }
+    public string Description { get; set; }
     public long DocumentId { get; set; }
     public long ParentId { get; set; }
-    public ICollection<DocumentStructureNodeResult> StructureNodeResults { get; set; } = new List<DocumentStructureNodeResult>();
+    public ICollection<DocumentStructureNodeResult> StructureNodes { get; set; } = new List<DocumentStructureNodeResult>();
 }
