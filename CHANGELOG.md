@@ -1,3 +1,15 @@
+# [2.0.0](https://github.com/EncyclopediaGalactica/Common/compare/1.0.0...2.0.0) (2024-05-11)
+
+
+### Features
+
+* removing StructureNodeResult and adding DocumentStructureNodeResult back [#9](https://github.com/EncyclopediaGalactica/Common/issues/9) ([af6fc97](https://github.com/EncyclopediaGalactica/Common/commit/af6fc97be6c18f27c4ee87256855dabe7569ffb7))
+
+
+### BREAKING CHANGES
+
+* StructureNodeResult has been removed, and adding DocumentStructureNodeResult back
+
 # [1.0.0](https://github.com/EncyclopediaGalactica/Common/compare/0.45.0...1.0.0) (2024-05-11)
 
 
