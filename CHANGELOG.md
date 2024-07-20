@@ -1,3 +1,10 @@
+# [2.5.0](https://github.com/EncyclopediaGalactica/Common/compare/2.4.0...2.5.0) (2024-07-20)
+
+
+### Features
+
+* document type input [#14](https://github.com/EncyclopediaGalactica/Common/issues/14) ([3ac0712](https://github.com/EncyclopediaGalactica/Common/commit/3ac07124684427896e06ebe29e85ef488b9709a1))
+
 # [2.4.0](https://github.com/EncyclopediaGalactica/Common/compare/2.3.0...2.4.0) (2024-05-11)
 
 
