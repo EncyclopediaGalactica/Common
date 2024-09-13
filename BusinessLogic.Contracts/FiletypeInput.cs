@@ -1,6 +1,6 @@
 namespace EncyclopediaGalactica.BusinessLogic.Contracts;
 
-public class FileFormatResult
+public class FiletypeInput
 {
     public long Id { get; set; }
     public string Name { get; set; }
