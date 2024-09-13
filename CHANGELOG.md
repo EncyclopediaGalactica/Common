@@ -1,3 +1,10 @@
+# [2.6.0](https://github.com/EncyclopediaGalactica/Common/compare/2.5.0...2.6.0) (2024-09-13)
+
+
+### Features
+
+* filetype ([#15](https://github.com/EncyclopediaGalactica/Common/issues/15)) ([b295f97](https://github.com/EncyclopediaGalactica/Common/commit/b295f97c82488274c31701ab66c6b7e3bd5d7215))
+
 # [2.5.0](https://github.com/EncyclopediaGalactica/Common/compare/2.4.0...2.5.0) (2024-07-20)
 
 
