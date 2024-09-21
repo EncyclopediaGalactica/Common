@@ -1,3 +1,10 @@
+# [2.7.0](https://github.com/EncyclopediaGalactica/Common/compare/2.6.0...2.7.0) (2024-09-21)
+
+
+### Features
+
+* RelationType related input and result Dtos [#16](https://github.com/EncyclopediaGalactica/Common/issues/16) ([ebb06da](https://github.com/EncyclopediaGalactica/Common/commit/ebb06da980e0df904c59d745c4aff9c16684fee1))
+
 # [2.6.0](https://github.com/EncyclopediaGalactica/Common/compare/2.5.0...2.6.0) (2024-09-13)
 
 
